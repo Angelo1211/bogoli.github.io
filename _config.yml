@@ -1,0 +1,27 @@
+# Site settings
+title: lia bogoev
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The personal blog and portfolio of Lia Bogoev.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://liabogoev.com" # the base hostname & protocol for your site
+twitter_username: elbowgo
+github_username:  bogoli
+
+# Build settings
+markdown: kramdown
+
+# Pagination
+paginate: 1
+paginate_path: "/blog/page:num/"
+
+collections:
+  ux:
+    output: true
+#    permalink: /ux/:path/
+  design:
+    output: true
+#    permalink: /design/:path/
+
+
+
