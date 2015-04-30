@@ -5,19 +5,15 @@ layout: default
 <div class="home">
 
 <div>
-  <h1>Lia Bogoev</h1>
-  <h2>designer, writer, knitter </h2>
-
-<h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          
-        </h2>
-
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <h3>{{ post.description }}</h3>
+        <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
+        
+        <hr/>
       </li>
     {% endfor %}
   </ul>
