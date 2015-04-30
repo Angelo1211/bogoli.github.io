@@ -9,14 +9,17 @@ dl, dd, ol, ul, figure {
 }
 
 
+
 /** Declaring stuff   **/
 $base-font-family:      Helvetica, sans-serif;
 $base-line-height:      1.5em;
 $horizontal-spacing-unit:     0px;
-$vertical-spacing-unit:     10px;
+$vertical-spacing-unit:     40px;
+
+
 $text-color:    #666;
 $red:           #FF3636;
-
+$grey-color-dark: #333;
 $nav-height: 56px;
 
 
@@ -38,13 +41,25 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $vertical-spacing-unit / 2;
 }
 
+.alignright {
+    float: right;
+}
+
+
+hr{
+    /* Inset, by Dan Eden */
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+
+}
 
 
 /**
@@ -168,8 +183,8 @@ pre {
     max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: $horizontal-spacing-unit;
+    padding-left: $horizontal-spacing-unit;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
