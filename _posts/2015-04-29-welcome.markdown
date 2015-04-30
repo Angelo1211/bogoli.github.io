@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  “test!”
+title:  test!
 date:   2015-04-29 16:40:16
-categories: jekyll update
+categories: 
 ---
 ;alkjf;lskdjf;alskdjf ;asdkjf;alsdkjf a;lsdkfj a
 asd;lfkja;sldfkja;sldfkj;aslkfdja;sldguaoeigrh;lzkj’dsfd
