@@ -1,7 +1,7 @@
 ---
 layout: page
-title: studio
-permalink: /studio/
+title: portfolio
+permalink: /portfolio/
 ---
 
 Here are posts 
