@@ -2,12 +2,13 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    position:fixed;
+    left:0px;
+    top:0px;
+    height:56px;
+    width:100%;
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
 }
 
 .site-title {
@@ -37,7 +38,7 @@
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: 10px;
         }
     }
 
@@ -59,14 +60,6 @@
             padding-top: 10px;
             text-align: center;
 
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
         }
 
         .trigger {
@@ -94,6 +87,11 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
 }
 
 .footer-heading {
