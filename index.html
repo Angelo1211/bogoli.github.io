@@ -11,11 +11,11 @@ layout: default
 <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {{ post.title }}
+          
         </h2>
 
       </li>
@@ -23,5 +23,34 @@ layout: default
   </ul>
 
 
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
 
+  <div class="pagination">
+    {% if paginator.previous_page %}
+
+      <a href="/"> |first| </a>
+
+      {% if paginator.page == 2 %} <!-- special case where previous needs to link to index.html -->
+        <a href="/index.html"> |previous| </a>
+      {% else %}
+        <a href="/blog/page{{paginator.previous_page}}" class="previous"> |previous| </a>
+      {% endif %}   
+    {% endif %}
+    
+    <span class="page_number ">{{paginator.page}} of {{paginator.total_pages}}</span>
+
+    {% if paginator.next_page %}
+      <a href="/blog/page{{paginator.next_page}}" class="next"> |next| </a>
+    {% else %}
+      <!-- There are no more blog pages (do nothing)-->  
+    {% endif %}
+
+      <a href="/blog/page{{paginator.total_pages}}">  |last|</a>
+
+  </div>
+{% endif %}
+
+
+</div>
 </div>
