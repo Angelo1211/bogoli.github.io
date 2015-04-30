@@ -14,7 +14,12 @@ $base-font-family:      Helvetica, sans-serif;
 $base-line-height:      1.5em;
 $horizontal-spacing-unit:     0px;
 $vertical-spacing-unit:     10px;
-$text-color:    #AAAA00;
+$text-color:    #666;
+$red:           #FF3636;
+
+$nav-height: 56px;
+
+
 /**
  * Basic styling
  */
@@ -94,16 +99,16 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $text-color;
     text-decoration: none;
-
+    /*
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($brand-color, 15%); 
     }
-
+    */
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: #FF3636;
+        text-decoration: none;
     }
 }
 
