@@ -17,12 +17,12 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  ux:
+  portfolio:
     output: true
-#    permalink: /ux/:path/
+    permalink: /portfolio/:path/
   design:
     output: true
-#    permalink: /design/:path/
+    permalink: /design/:path/
 
 
 

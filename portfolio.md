@@ -4,11 +4,10 @@ title: portfolio
 permalink: /portfolio/
 ---
 
-Here are posts 
-
-post post
-
-
-post 
-
-about design (digital, i.e., websites/apps)
+{% for project in site.portfolio %}
+<div> 
+<img src="{{ project.img }}" alt="{{ project.title }}"/>
+<h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
+<p>{{ project.description }}</p>
+</div>
+{% endfor %}

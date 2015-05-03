@@ -4,4 +4,10 @@ title: design
 permalink: /design/
 ---
 
-UX UX UX UX UX UX UX UX UX 
+{% for project in site.design %}
+<div> 
+	<!--<img src="{{ project.img }}" alt="{{ project.title }}"/> -->
+<h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
+<p>{{ project.description }}</p>
+</div>
+{% endfor %}
