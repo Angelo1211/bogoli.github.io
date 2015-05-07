@@ -181,13 +181,28 @@
 }
 
 .project {
-  width: 33.33%;
-  float: left;
-  vertical-align: middle;
-  height: 200px;
+    width: 250px;
+    height: 250px;
+    float: left;
+    vertical-align: middle;
 
+    box-sizing: border-box;
+    padding: 10px;
 }
 
+.thumbnail{
+    width: 230px;
+    height: 230px;
+    overflow: hidden;
+}
+
+.thumbnail img{
+    width: 500px;
+    height: auto;
+    position: relative;
+    left: -125px;
+    top:-75px;
+}
 
 
 

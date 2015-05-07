@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll Theme 1
 description: simple Helvetica minimalist portfolio theme
-img: /img/bauhaus.jpg
+img: /img/1.jpg
 ---
 
 <article> 
