@@ -1,5 +1,5 @@
 /**
- * Site header
+ * Site header   **********************************************************
  */
 .site-header {
     border-bottom: 1px solid $grey-color-light;
@@ -65,7 +65,7 @@
 
 
 /**
- * Site footer
+ * Site footer  **********************************************************
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
@@ -84,7 +84,7 @@
 
 
 /**
- * Page content
+ * Page content   **********************************************************
  */
 .page-content {
     padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
@@ -100,28 +100,14 @@
 
     > li {
         margin-bottom: $vertical-spacing-unit;
-
-
     }
 
 
 }
 
-.post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
-    margin-bottom: 0px; 
-}
-
-.post-link {
-    display: block;
-    font-size: 42px;
-}
-
-
 
 /**
- * Posts
+ * Posts  **********************************************************
  */
 .post-header {
     margin-bottom: $vertical-spacing-unit;
@@ -163,3 +149,53 @@
         }
     }
 }
+
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+    margin-bottom: 0px; 
+}
+
+.post-link {
+    display: block;
+    font-size: 42px;
+}
+
+
+
+/** 
+ * Portfolio grid **********************************************************
+*/
+
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.project {
+  width: 33.33%;
+  float: left;
+  vertical-align: middle;
+  height: 200px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

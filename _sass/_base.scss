@@ -179,7 +179,8 @@ pre {
 
 /**
  * Wrapper
- */
+ */ 
+
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
     max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
@@ -198,12 +199,11 @@ pre {
 }
 
 
-
 /**
  * Clearfix
  */
 %clearfix {
-
+    &:before,
     &:after {
         content: "";
         display: table;
@@ -213,10 +213,4 @@ pre {
 
 
 
-/**
- * Icons
- */
-.icon {
 
-
-}
