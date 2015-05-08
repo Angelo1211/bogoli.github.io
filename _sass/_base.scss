@@ -18,6 +18,7 @@ $vertical-spacing-unit:     40px;
 
 
 $text-color:    #666;
+$link-color:    #222;
 $red:           #FF3636;
 $grey-color-dark: #333;
 $nav-height: 56px;
@@ -112,8 +113,17 @@ a {
     }
     */
     &:hover {
-        color: #FF3636;
+        color: $red;
         text-decoration: none;
+    }
+}
+
+article a {
+    color: $red;
+    font-weight: 100;
+
+    &:hover {
+        text-decoration: underline;
     }
 }
 

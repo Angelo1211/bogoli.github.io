@@ -5,11 +5,4 @@ description: simple Helvetica minimalist portfolio theme
 img: /img/portfolio/folio.png
 ---
 
-<article> 
-This doesn't really need a title but. 
-We can put images in here:
-
-<img src="/img/bauhaus.jpg">
-<img src="/img/bauhaus_building.jpg">
-
-</article>
+I have nothing written yet about the folio theme. This **is** the folio theme. 
