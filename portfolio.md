@@ -11,6 +11,7 @@ permalink: /portfolio/
         <img class="thumbnail" src="{{ project.img }}"/>
         <span>
             <h1>{{ project.title }}</h1>
+            <br/>
             <p>{{ project.description }}</p>
         </span>
         </a>
