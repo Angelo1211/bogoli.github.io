@@ -11,10 +11,10 @@ We began with a cylindrical shape, and approached this issue of manufacturing it
 
 The joints were 3D printed out of ABS, and the panels and base are plexiglass and masonite, spray painted for contrast. The roof was constructed out of bristol board. 
 
-<div>
-	<img class="" src="/img/portfolio/ghouse_joint_assembly.png" alt="Assembling the model." title="Assembling the model."/>
-	<img class="" src="/img/portfolio/ghouse_render.png" alt="Rendering." title="Rendering of the near-finished design.."/>
-	<img class="" src="/img/portfolio/ghouse_front.png" alt="Finished product." title="The finished product."/>
+<div class="img_row">
+	<img class="col1" src="/img/portfolio/ghouse_joint_assembly.png" alt="Assembling the model." title="Assembling the model."/>
+	<img class="col1" src="/img/portfolio/ghouse_render.png" alt="Rendering." title="Rendering of the near-finished design.."/>
+	<img class="col1" src="/img/portfolio/ghouse_front.png" alt="Finished product." title="The finished product."/>
 </div>
 
 <p>
