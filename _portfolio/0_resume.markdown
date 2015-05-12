@@ -12,6 +12,8 @@ Jan&#39;15 — current
 
 I am working in conjunction with MIT Media Lab graduate student <a href="http://www.media.mit.edu/people/jgroff" target="_blank">Jen Groff</a> to create an ontology of worldwide teaching standards. 
 
+<hr/> <br/>
+
 #### PR & Marketing Manager at Utah State University's <a href="http://it.usu.edu/labs" target="_blank"> IT Computer Labs </a>   
 Aug&#39;13 – Jan&#39;15
 	

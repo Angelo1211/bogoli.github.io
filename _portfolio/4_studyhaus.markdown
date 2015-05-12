@@ -13,17 +13,31 @@ An expansion of the drawing into three dimensional space became a theoretical bu
 	<img class="col one" src="/img/portfolio/studio.CAD.png" alt="CAD Model." title="CAD model of building space."/>
 	<img class="col one" src="/img/portfolio/studio1.3.png" alt="Aerial view." title="Aerial view of building space."/>
 	<img class="col one" src="/img/portfolio/studio1.1.png" alt="Finished product." title="Elevation of building space."/>
+	<div class="col three caption">
+		Left: CAD model of the building space. Center, Right: Finished plaster cast, aerial and elevation. 
+	</div>
 </div>
 
+<br/>
 
-    
-A second major venture was the evolution of the Processing drawings into a usable space, rather than just a concept. 
+A second major venture was the evolution of the Processing drawings into a usable space, rather than just a concept. I used areas of high concentration of lines to form the floorplan. 
+
 <div class="img_row">
 	<img class="col three" src="/img/portfolio/studio.evolution.png" alt="Evolution of building plans." title="Evolution from Processing drawing stills to building plan.">
+	<div class="col three caption">
+		Evolution from Processing drawing stills to building plan. 
+	</div>
 </div>
+    
+
 From the undulating nature of the drawings, I theoreticized a building with spaces that could expand and contract based on occupation, from study carrels with thickened, accordion walls for sound insulation, to larger, airier rooms that encourage interaction and study groups. From spaces of high density and activity in the drawings came rooms. Areas with lower density became smaller spaces within the building, lower rooflines providing coziness. 
 
 <div class="img_row">
 	<img class="col two" src="/img/portfolio/studio.elevation.png" alt="Elevation of building." title="Elevation of Study Haus">
+	
 	<img class="col one" src="/img/portfolio/studio.CAD.building.png" alt="Aerial view of building." title="Aerial of Study Haus">
+
+	<div class="col three caption">
+		Left: Elevation of Study Haus, showing roof line deflating for smaller spaces.
+	</div>
 </div>
