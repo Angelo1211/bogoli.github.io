@@ -34,4 +34,4 @@ I received an <a href="http://rgs.usu.edu/studentresearch/htm/ur-opportunities/f
 #### User Experience Intern at LogiPref, Inc
 IAP &#39;13
 
-I worked with a team of two programmers to bring to life a prototype of LogiPref's innovative choosing algorithm. We developed a webapp to help consumers in Cambridge decide which meal would most appeal to them of all the restaurant options near MIT. My role was the overall design, user experience, and implementing the front end, although I became familiar with Django through the process as well. 
+I worked with a team of two programmers to bring to life a prototype of LogiPref's innovative choosing algorithm. We developed a webapp to help consumers in Cambridge decide which meal would most appeal to them of all the restaurant options near MIT. My role was the overall design, user experience, and implementing the front end, although I became familiar with Django through the process as well.  
