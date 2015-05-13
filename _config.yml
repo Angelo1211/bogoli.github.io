@@ -12,7 +12,7 @@ github_username:  bogoli
 markdown: kramdown
 
 # Pagination
-paginate: 2
+paginate: 15
 paginate_path: "/blog/page:num/"
 
 
