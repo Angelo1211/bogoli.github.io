@@ -14,5 +14,19 @@ HTML & CSS are my favorite tools. Scalability and responsiveness are paramount. 
 
 I like <a href="http://stronglifts.com" target="_blank">weightlifting</a> and riding my fixed gear bike. I bake *really* good lemon bars. I write <a href="http://poetry.liabogoev.com" target="_blank">poetry</a>. My favorite subreddit is <a href="http://www.reddit.com/r/showerthoughts" target="_blank">/r/showerthoughts</a> I love the snow, and I can't wait to get a dog. 
 
-	
+<br/>
+<hr/>
+<br/>
+
+<span class="contacticon center">
+	<a href="mailto:lia.bogoev@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/bogoli" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/pub/lia-bogoev/36/806/5a4" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="http://blog.liabogoev.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="https://twitter.com/elbowgo" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</span>
+
+<div class="col three caption">
+	I am best reachable by email: lbogoev (at) mit (dot) edu
+</div>
 
