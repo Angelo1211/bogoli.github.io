@@ -22,28 +22,43 @@ layout: default
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 
-  <div class="pagination">
-    {% if paginator.previous_page %}
+<div class="pagination center">
+  <span>
+  
+    {% if paginator.previous_page %} <!-- if there is a previous page, make it a link --> 
 
-      <a href="/"> |first| </a>
+      <a href="/"><i class="fa fa-angle-double-left"></i></a>
 
       {% if paginator.page == 2 %} <!-- special case where previous needs to link to index.html -->
-        <a href="/index.html"> |previous| </a>
+        <a href="/index.html"><i class="fa fa-angle-left"></i></a>
+      
       {% else %}
-        <a href="/blog/page{{paginator.previous_page}}" class="previous"> |previous| </a>
-      {% endif %}   
-    {% endif %}
-    
-    <span class="page_number ">{{paginator.page}} of {{paginator.total_pages}}</span>
+        <a href="/blog/page{{paginator.previous_page}}" class="previous"><i class="fa fa-angle-left"></i></a>
+      {% endif %}
 
-    {% if paginator.next_page %}
-      <a href="/blog/page{{paginator.next_page}}" class="next"> |next| </a>
-    {% else %}
-      <!-- There are no more blog pages (do nothing)-->  
+      {% else %}  <!-- there is no previous page, same but don't make it a link -->
+        <i class="fa fa-angle-double-left"></i>
+        <i class="fa fa-angle-left"></i>
+
     {% endif %}
 
-      <a href="/blog/page{{paginator.total_pages}}">  |last|</a>
 
-  </div>
-{% endif %}
+    {{paginator.page}} of {{paginator.total_pages}}
+
+    {% if paginator.next_page %} <!-- if there is a next page, make it a link -->
+    <a href="/blog/page{{paginator.next_page}}" class="next"><i class="fa fa-angle-right"></i></a>
+
+    {% else %} <!-- There are no more blog pages put stuff there -->  
+    <i class="fa fa-angle-right"></i>
+
+
+    {% endif %}
+
+    <a href="/blog/page{{paginator.total_pages}}"><i class="fa fa-angle-double-right"></i></a>
+
+  </span>
+
+</div>
+  
+  {% endif %}
 
