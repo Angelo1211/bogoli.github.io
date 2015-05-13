@@ -1,6 +1,6 @@
 # Site settings
 title: lia bogoev
-email: your-email@domain.com
+email: lbogoev@mit.edu
 description: > # this means to ignore newlines until "baseurl:"
   The personal blog and portfolio of Lia Bogoev.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -12,7 +12,7 @@ github_username:  bogoli
 markdown: kramdown
 
 # Pagination
-paginate: 15
+paginate: 2
 paginate_path: "/blog/page:num/"
 
 
