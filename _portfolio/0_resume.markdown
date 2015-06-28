@@ -2,7 +2,6 @@
 layout: post
 title: resume
 description: html and PDF copies of my resume
-img: /img/portfolio/resume.png
 ---
 
 <a href="/lbogoev.pdf" target="_blank">[download pdf]</a>

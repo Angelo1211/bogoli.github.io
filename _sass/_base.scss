@@ -11,17 +11,35 @@ dl, dd, ol, ul, figure {
 
 
 /** Variables **********************************************/
-$base-font-family:      Helvetica, sans-serif;
-$base-line-height:      1.5em;
-$horizontal-spacing-unit:     0px;
-$vertical-spacing-unit:     40px;
+$base-font-family:              Helvetica, sans-serif;
+$base-line-height:              1.5em;
+$horizontal-spacing-unit:       50px;
+$vertical-spacing-unit:         40px;
+$nav-height:                    56px;
+
+/* portfolio tinkering */
+$img_spacing: 5px; 
+$img_height: 275px;
+$caption_font_size: 12px;
+$caption_color: #aaa;
+
+/* COLORS  */
+$red:  #FF3636;
+$orange: #F29105;
+$blue: #2698BA;
+$green: #11D68B;
+$lime_green: #B7D12A;
+$purple: #B509AC;
 
 
-$text-color:    #666;
-$link-color:    #222;
-$red:           #FF3636;
-$grey-color-dark: #333;
-$nav-height: 56px;
+$grey-color-dark: #333;   /* footer */
+$grey-color-light: #ddd;  /* navigation bar border */
+$text-color:     #666;
+
+/* Set theme color *************************/
+$theme-color:   $lime_green;
+
+
 /************************************************************/
 
 /**
@@ -100,7 +118,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
 /**
  * Links
  */
@@ -113,13 +130,13 @@ a {
     }
     */
     &:hover {
-        color: $red;
+        color: $theme-color;
         text-decoration: none;
     }
 }
 
 article a {
-    color: $red;
+    color: $theme-color;
     font-weight: 100;
 
     &:hover {
@@ -133,11 +150,10 @@ article a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $text-color;
+    border-left: 10px solid $grey-color-light;
     padding-left: $horizontal-spacing-unit / 2;
     font-size: 18px;
-    letter-spacing: -1px;
     font-style: italic;
 
     > :last-child {
@@ -153,9 +169,8 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: $grey-color-light;
 }
 
 code {
@@ -208,7 +223,6 @@ pre {
         clear: both;
     }
 }
-
 
 
 

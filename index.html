@@ -2,62 +2,23 @@
 layout: default
 ---
 
-  <ul class="post-list">
+<div class="header-bar">
+  <h1>lia&nbsp;bogoev</h1>
+  <h2>designer • developer • student</h2>
+  <br/>
+  <hr>
+  <br/>
+</div>
+
+
+<ul class="post-list">
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <!-- %B %d, %Y -->
         <p>{{ post.description }}</p>
-      
         <br/>
         <hr/>
-        
-
       </li>
     {% endfor %}
-  </ul>
-
-
-<!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
-
-<div class="pagination">
-  <span class="paginationicon">
-  
-    {% if paginator.previous_page %} <!-- if there is a previous page, make it a link --> 
-
-      <a href="/"><i class="fa fa-angle-double-left"></i></a>
-
-      {% if paginator.page == 2 %} <!-- special case where previous needs to link to index.html -->
-        <a href="/index.html"><i class="fa fa-angle-left"></i></a>
-      
-      {% else %}
-        <a href="/blog/page{{paginator.previous_page}}" class="previous"><i class="fa fa-angle-left"></i></a>
-      {% endif %}
-
-      {% else %}  <!-- there is no previous page, same but don't make it a link -->
-        <i class="fa fa-angle-double-left"></i>
-        <i class="fa fa-angle-left"></i>
-
-    {% endif %}
-
-     <span class="caption">{{ paginator.page }} of {{ paginator.total_pages }}</span> 
-
-    {% if paginator.next_page %}
-      <a href="/blog/page{{paginator.next_page}}" class="next"><i class="fa fa-angle-right"></i></a>
-      <a href="/blog/page{{paginator.total_pages}}"><i class="fa fa-angle-double-right"></i></a>
-
-  {% else %}
-      <i class="fa fa-angle-right"></i>
-      <i class="fa fa-angle-double-right"></i>
-  {% endif %}
-
-  </span>
-
-  
-
-</div>
-  
-  {% endif %}
-
+</ul>
