@@ -20,9 +20,8 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  design:
+  poetry:
     output: true
-    permalink: /design/:path/
-
+    permalink: /poetry/:path/
 
 

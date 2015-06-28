@@ -1,0 +1,12 @@
+---
+layout: post
+title:  folio-theme completion
+date:   2015-05-12 21:01:00
+description: An update on taking this site live.  
+---
+
+My personal website is—dare I even say it?—*complete*. Having a personal website has given me a playground on which to grow my HTML + CSS skills. Today, that finally comes to fruition in the form of a fully-functional theme. I'm incredibly excited, and looking forward to working more with Jekyll. 
+
+The next step for me now is to strip this site of content, fill it up with some Lorem ipsum, and give it its own repository. 
+
+Next week is finals, so after tonight, I'm going to have to buckle down and study. After Monday, though, the worst of it will be over, and I can be back to coding and working. Next on the horizon: iTunesU course on iOS development, maybe another Jekyll theme. I might even throw some time towards my novel. The summer is full of possibility. 
