@@ -1,6 +1,5 @@
 ---
 layout: page
-title: poetry
 permalink: /poetry/
 description: in reverse chronological order, dating back to 2002. 
 ---
