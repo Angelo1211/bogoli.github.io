@@ -6,6 +6,11 @@ description: html and PDF copies of my resume
 
 <a href="/lbogoev.pdf" target="_blank">[download pdf]</a>
 
+#### Student Consultant in MIT's <a href="http://ist.mit.edu" target="_blank">IS&T</a>
+Feb&#39;15 — current
+
+I work as a Help Desk Consultant, and also as a student consultant on various projects. I am creating publicity content for back-to-school, informing incoming students of our services and the details of computing on campus. 
+
 #### UROP at MIT's <a href="http://mitstep.org/" target="_blank">Education Arcade</a>
 Jan&#39;15 — current
 
