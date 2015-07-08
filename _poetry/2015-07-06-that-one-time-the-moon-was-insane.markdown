@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: that one time the moon was insane
-date:   2015-07-06 12:57:00
+date: 2015-07-06 12:57:00
 --- 
 
 It hung in the sky    
