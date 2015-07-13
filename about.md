@@ -19,7 +19,7 @@ I like <a href="http://stronglifts.com" target="_blank">weightlifting</a> and ri
 <br/>
 
 <span class="contacticon center">
-	<a href="mailto:lia.bogoev@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="mailto:lbogoev@mit.edu><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/bogoli" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/pub/lia-bogoev/36/806/5a4" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://blog.liabogoev.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
