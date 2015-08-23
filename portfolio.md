@@ -4,6 +4,8 @@ title: portfolio
 permalink: /portfolio/
 ---
 
+Click on a project for description and more photos. 
+
 {% for project in site.portfolio %}
 <div class="project ">
     <div class="thumbnail">
