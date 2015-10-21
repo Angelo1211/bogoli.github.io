@@ -3,6 +3,7 @@ layout: post
 title: "*folio"
 description: minimalist portfolio Jekyll theme
 img: /img/portfolio/f_main.png
+cat: web
 ---
 
 This theme, my first, was born out of the need for flexibility with Jekyll. I wanted to combine a personal blog with a portfolio page, and wanted two separate layouts for that. I also wanted a simpler listing for my poetry, which I easily imported from Tumblr straight into markdown entries.
