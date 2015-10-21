@@ -12,8 +12,10 @@ Feb&#39;15 — current
 
 I work as a Help Desk Consultant, and also as a student consultant on various projects. I am creating publicity content for back-to-school, informing incoming students of our services and the details of computing on campus. 
 
+<hr/> <br/>
+
 #### UROP at MIT's <a href="http://mitstep.org/" target="_blank">Education Arcade</a>
-Jan&#39;15 — current
+Jan&#39;15 — Aug&#39;15
 
 I am working in conjunction with MIT Media Lab graduate student <a href="http://www.media.mit.edu/people/jgroff" target="_blank">Jen Groff</a> to create an ontology of worldwide teaching standards. 
 
