@@ -3,6 +3,7 @@ layout: post
 title: "*simplepage"
 description: simple Helvetica minimalist portfolio theme
 img: /img/portfolio/s_1.png
+cat: web
 ---
 
 When I first discovered Jekyll, I wasn't quite sure where to start. In looking for previously established themes, I came across [Single Paged](https://github.com/t413/SinglePaged). I really liked the layout, and appreciated the ease of choosing colors. I wanted to make it my own, though, so I used that project as way to get familiar with Jekyll. 

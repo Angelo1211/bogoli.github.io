@@ -3,6 +3,7 @@ layout: post
 title: Study Haus
 description: a compilation of projects completed for 4.112
 img: /img/portfolio/studio1.3.png
+cat: arch
 ---
 
 Every project that was completed through the semester of Studio 2 was based on the simple premise of a process completely removed from architecture: protein methylation. The dichotomous nature of this process provided the logic for the creation of a dynamic and interactive Processing drawing, which then became the starting point for two major projects.

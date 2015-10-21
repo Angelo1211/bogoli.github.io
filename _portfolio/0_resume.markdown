@@ -2,6 +2,7 @@
 layout: post
 title: resume
 description: html and PDF copies of my resume
+cat: resume
 ---
 
 <a href="/lbogoev.pdf" target="_blank">[download pdf]</a>

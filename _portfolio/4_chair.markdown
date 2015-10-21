@@ -3,6 +3,7 @@ layout: post
 title: the Icon Chair
 description: An easily mass produced and simply assembled plywood chair
 img: /img/portfolio/chair2.png
+cat: arch
 ---
 
 This project was a collaboration with my partner, <a href="http://ebsworth.tumblr.com" target="_blank">Tara&nbsp;Ebsworth</a>, as part of course requirements from 4.500—Design Computing. The goal was to create a chair that was easily manufactured, out of common materials, and put together only using a rubber mallet. The intent of the design was to use as little wood as possible, and to still be comfortable and stylish. We achieved this by using thin slats of plywood that had some give, conforming to the body.

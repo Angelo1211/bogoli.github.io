@@ -3,6 +3,7 @@ layout: post
 title: the Quack House
 description: A Guardhouse model focused on modularity
 img: /img/portfolio/ghouse_front.png
+cat: arch
 ---
 
 The Quack House is a security guard shelter that stands next to a gated entrance. With a slanted window and a seductively angular design, it is both practical and beautiful. This project was completed as part of 4.500 Design Computing.
