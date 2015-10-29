@@ -1,17 +1,17 @@
-- - - 
+---
 layout: post
 title: Untitled
-date: 2015-10-27 15:00:00
-- - - 
+date: 2015-10-27  15:00:00
+---
 
-I smooth my hands over your
-two dimensional planes
-one degree of freedom.
-
-Silken curves slip beneath
-I flip you
-flex your binding with 
-gentle thumbs
-flapping your pages
-feeling the flow of thought
-course through me
+I smooth my hands over your     
+two dimensional planes    
+one degree of freedom.     
+     
+Silken curves slip beneath    
+I flip you    
+flex your binding with     
+gentle thumbs     
+flapping your pages     
+feeling the flow of thought     
+course through me     
