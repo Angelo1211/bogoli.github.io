@@ -5,7 +5,7 @@ description: html and PDF copies of my resume
 cat: resume
 ---
 
-<a href="/lbogoev.pdf" target="_blank">[download pdf]</a>
+<a href="/docs/lbogoev.pdf" target="_blank">[download pdf]</a>
 
 #### Student Consultant in MIT's <a href="http://ist.mit.edu" target="_blank">IS&T</a>
 Feb&#39;15 — current

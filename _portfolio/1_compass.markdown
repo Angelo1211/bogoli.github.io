@@ -2,7 +2,7 @@
 layout: post
 title: "Compass"
 description: a collaborative itinerary concept
-img: /img/portfolio/s_1.png
+img: /img/portfolio/compass_loading.png
 cat: web
 ---
 
@@ -24,7 +24,5 @@ We developed a web interface that would allow detailed planning, and a mobile co
 <div class="col three caption">
 --> 
 
-
-</div>
 
 
