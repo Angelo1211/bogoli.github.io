@@ -3,13 +3,13 @@ layout: page
 title: portfolio
 permalink: /portfolio/
 ---
-
+<!-- 
 {% for project in site.portfolio %}
 {% if project.cat == "resume" %}
 <p><a href="{{ site.baseurl }}{{ project.url }}"><b>resume</b></a> : cumulative list of work experience, skills, and education.</p>
 {% endif %}
 {% endfor %} 
-
+--> 
 <p><b>html + css</b> : including themes for Jekyll and other web based projects.</p>
 {% for project in site.portfolio %}
 {% if project.cat == "web" %}
