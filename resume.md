@@ -1,23 +1,30 @@
 ---
 layout: post
+permalink: /resume/
 title: resume
 description: html and PDF copies of my resume
-cat: resume
 ---
 
 <a href="/docs/lbogoev.pdf" target="_blank">[download pdf]</a>
 
-#### Student Consultant in MIT's <a href="http://ist.mit.edu" target="_blank">IS&T</a>
-Feb&#39;15 — current
+#### Instructional Design Intern at <a href="http://www.athenahealth.com" target="_blank">athenahealth</a>
+June&#39;16 — present
 
-I work as a Help Desk Consultant, and also as a student consultant on various projects. I am creating publicity content for back-to-school, informing incoming students of our services and the details of computing on campus. 
+I work as an Instructional Design Intern, creating materials that teaches clients how to use the athenaOne suite. I create demo videos, detailing workflows and features, as well as technical resources including tip sheets and elearning courses. 
+
+<hr/> <br/>
+
+#### Student Consultant in MIT's <a href="http://ist.mit.edu" target="_blank">IS&T</a>
+Feb&#39;15 — May&#39;16
+
+I worked as a Help Desk Consultant, and also as a student consultant on various projects. I created publicity content for back-to-school, informing incoming students of our services and the details of computing on campus. 
 
 <hr/> <br/>
 
 #### UROP at MIT's <a href="http://mitstep.org/" target="_blank">Education Arcade</a>
 Jan&#39;15 — Aug&#39;15
 
-I am working in conjunction with MIT Media Lab graduate student <a href="http://www.media.mit.edu/people/jgroff" target="_blank">Jen Groff</a> to create an ontology of worldwide teaching standards. 
+I am worked in conjunction with MIT Media Lab graduate student <a href="http://www.media.mit.edu/people/jgroff" target="_blank">Jen Groff</a> to create an ontology of worldwide teaching standards. 
 
 <hr/> <br/>
 
