@@ -24,7 +24,7 @@ permalink: /about/
 <br/>
 
 
-<p>My name is Lia Bogoev, and I'm a UX designer from northern Utah. I will be graduating from <a href="http://web.mit.edu" target="_blank">MIT</a> in January 2017 with a Bachelor of Science in <a href="https://architecture.mit.edu" target="_blank">Architecture Studies</a> with a focus in <a href="http://cmsw.mit.edu" target="_blank">Comparative Media Studies</a> and a minor in Creative Writing. </p>
+<p>My name is Lia Bogoev, and I'm from northern Utah. I will be graduating from <a href="http://web.mit.edu" target="_blank">MIT</a> in January 2017 with a Bachelor of Science in <a href="https://architecture.mit.edu" target="_blank">Architecture Studies</a> with a focus in <a href="http://cmsw.mit.edu" target="_blank">Comparative Media Studies</a> and a minor in Creative Writing. </p>
 
 <p>I'm interested in the boundary between the product and the user, whether the "product" is a website, an app, a physical product, or a service.</p>
 
